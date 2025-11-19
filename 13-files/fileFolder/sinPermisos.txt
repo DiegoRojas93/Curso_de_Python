@@ -1,0 +1,7 @@
+Soy
+un
+archivo
+que
+no
+tiene
+permisos.

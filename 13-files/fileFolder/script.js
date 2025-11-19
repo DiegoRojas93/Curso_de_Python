@@ -1,0 +1,5 @@
+console.log("Hola mundo desde JavaScript.");
+    
+const suma = (a, b) => a + b
+    
+console.log( suma )

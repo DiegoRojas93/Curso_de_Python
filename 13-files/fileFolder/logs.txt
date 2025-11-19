@@ -1,0 +1,3 @@
+[2025-11-19 09:33:44]: Error en la bases de datos.
+[2025-11-19 09:33:47]: Error en la bases de datos.
+[2025-11-19 09:33:50]: Error en la bases de datos.

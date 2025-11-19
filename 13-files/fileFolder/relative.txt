@@ -1,0 +1,7 @@
+Hola
+soy
+un
+archivo
+en
+otra
+carpeta
